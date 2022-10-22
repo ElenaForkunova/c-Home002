@@ -1,0 +1,15 @@
+D:\обучение\c#Home002\Home001_010\bin\Debug\net6.0\Home001_010.exe
+D:\обучение\c#Home002\Home001_010\bin\Debug\net6.0\Home001_010.deps.json
+D:\обучение\c#Home002\Home001_010\bin\Debug\net6.0\Home001_010.runtimeconfig.json
+D:\обучение\c#Home002\Home001_010\bin\Debug\net6.0\Home001_010.dll
+D:\обучение\c#Home002\Home001_010\bin\Debug\net6.0\Home001_010.pdb
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\Home001_010.csproj.AssemblyReference.cache
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\Home001_010.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\Home001_010.AssemblyInfoInputs.cache
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\Home001_010.AssemblyInfo.cs
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\Home001_010.csproj.CoreCompileInputs.cache
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\Home001_010.dll
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\refint\Home001_010.dll
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\Home001_010.pdb
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\Home001_010.genruntimeconfig.cache
+D:\обучение\c#Home002\Home001_010\obj\Debug\net6.0\ref\Home001_010.dll
