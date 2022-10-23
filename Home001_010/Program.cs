@@ -5,6 +5,26 @@
 918 -> 1*/
 
 Console.WriteLine("Введите трехзначное число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int a = Convert.ToInt32(Console.ReadLine());
 
+//создаю условие, которое проверяет лежит ли число в интервале от 100 до 999
+if (99 < a && a < 1000)
+{
+    int a1 = a/10;
+    int a2 = (a1 % 10);
+    int result = a2;
+    Console.WriteLine($"вторая цифра этого числа {result}");
+}
+else
+{
+    Console.WriteLine("это не трехзначное число! попробуйте снова"); 
+}    
+
+
+
+
+
+    
+
+    
 
